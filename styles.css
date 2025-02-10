@@ -1,0 +1,118 @@
+.body{
+    background-color: #001A6E;
+}
+
+.navigation_bar{
+    height:4rem;
+    color:#E1FFBB;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.5rem;
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+}
+
+body{
+    background-color: #001A6E;
+}
+
+.carousel_image{
+    width: 10rem;
+    height: 30rem;
+}
+
+.add_button{
+    background-color: #009990;
+    color: #E1FFBB;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end; 
+}
+
+.save {
+    display: flex;
+    justify-content: flex-start; 
+    margin-top: 2rem;
+}
+
+.form_div{
+    background-color: #074799;
+    height: 32rem;
+    width: 100%
+}
+
+.legend{
+    color:#E1FFBB;
+    font-size: x-large;
+}
+
+.productId{
+    color:#E1FFBB
+}
+
+fieldset {
+    border: 1px solid #ccc; 
+    padding: 10px; 
+    border-radius: 5px; 
+}
+
+legend {
+    font-weight: bold; 
+    font-size: 1.2rem; 
+    padding: 5px; 
+}
+
+.productId{
+    color:#E1FFBB
+}
+
+.productName{
+    color:#E1FFBB
+}
+
+.image{
+    color:#E1FFBB
+}
+
+.productName{
+    color:#E1FFBB
+}
+
+.price{
+    color:#E1FFBB
+}
+
+.description{
+    color:#E1FFBB
+}
+
+textarea{
+    width: 100%;
+}
+
+.view{
+    background-color: #001A6E;
+}
+
+.table_header{
+    background-color: #009990;
+    color:#E1FFBB
+}
+
+.table_content{
+    background-color: #074799;
+    color: #E1FFBB;
+}
+
+.filterProductId{
+    color: #E1FFBB;
+}
+
+.filterinput{
+    background-color: #D1F8EF;
+}
+
+
+
